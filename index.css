@@ -1,13 +1,9 @@
-.inline-block {
-    display: inline-block;
-    vertical-align: top;
-}
 .logo {
     width: 23%;
     padding: 1%;
 }
 .logo img {
-    width: 10px;
+    width: 60px;
     height: auto;
 }
 nav {
@@ -46,6 +42,7 @@ nav li,
 footer li{
   list-style: none;
 }
+
 header img {
-  width: 200px;
+  width: 60px;
   }
