@@ -26,6 +26,11 @@ header img {
   }  
 }
 
+body {
+  background-color: #FAF7EF;
+  background-image: url(images/backgroundgradient.png);
+  background-size: cover;
+}
 nav,
 footer{
   display: flex;
